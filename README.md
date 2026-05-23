@@ -1,5 +1,6 @@
 # 🚀 Caderno Temático Inteligente: Engenharia Reversa do Edital Banco do Brasil (Agente de Tecnologia)
 ### Projeto Prático - Desafio DIO (Aprendizagem Ativa com IA)
+### [Link do NotbookLM](https://notebooklm.google.com/notebook/c27a883b-7be0-4fd2-a042-abd4c28b04a4)
 
 ---
 
